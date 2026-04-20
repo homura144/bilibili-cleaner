@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-cleaner",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test ./tests/bilibili-cleaner.test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^29.0.2"
+  }
+}
