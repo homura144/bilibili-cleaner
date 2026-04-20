@@ -2,9 +2,8 @@
 // @name         B站一键取消所有追番追剧
 // @namespace    https://github.com/homura144/bilibili-cleaner
 // @version      3.2
-// @description  只保留一个按钮，从当前页开始自动逐页取消所有追番追剧
+// @description  个人空间-追番追剧页面添加一个按钮，从当前页开始自动逐页取消所有追番追剧
 // @match        https://space.bilibili.com/*/bangumi*
-// @grant        none
 // @author       Homura
 // @license MIT
 // @homepageURL  https://github.com/homura144/bilibili-cleaner
